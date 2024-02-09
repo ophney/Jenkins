@@ -10,9 +10,9 @@ public class Main {
         String input = scanner.nextLine();
 
         if (isPalindrome(input)) {
-            System.out.println("The entered words/Numbers is a palindrome.");
+            System.out.println("The entered string is a palindrome.");
         } else {
-            System.out.println("The entered words/Numbers is not a palindrome.");
+            System.out.println("The entered string is not a palindrome.");
         }
 
         scanner.close();
