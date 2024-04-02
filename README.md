@@ -1,7 +1,3 @@
-Absolutely! Here's the README statement tailored for a Java program:
-
----
-
 # Palindrome Checker (Java)
 
 ## Description:
